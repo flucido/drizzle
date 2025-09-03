@@ -1,0 +1,16 @@
+
+> ltc-backend@1.0.0 dev /Users/franklucido/projects/drizzle/ltc-backend
+> cross-env NODE_OPTIONS=--no-deprecation next dev
+
+ ⚠ Warning: Found multiple lockfiles. Selecting /Users/franklucido/projects/package-lock.json.
+   Consider removing the lockfiles at:
+   * /Users/franklucido/projects/drizzle/ltc-backend/pnpm-lock.yaml
+   * /Users/franklucido/projects/drizzle/pnpm-lock.yaml
+
+   ▲ Next.js 15.4.4
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.4.29:3000
+   - Environments: .env
+
+ ✓ Starting...
+ ✓ Ready in 2.8s
